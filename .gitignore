@@ -1,0 +1,15 @@
+/architect/node_modules/
+/architect/package-lock.json
+/architect/.editorconfig
+
+/band/node_modules/
+/band/package-lock.json
+/band/.editorconfig
+
+/gourmet-catering/node_modules/
+/gourmet-catering/package-lock.json
+/gourmet-catering/.editorconfig
+
+/parallax/node_modules/
+/parallax/package-lock.json
+/parallax/.editorconfig
