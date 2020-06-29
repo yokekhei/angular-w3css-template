@@ -13,3 +13,7 @@
 /parallax/node_modules/
 /parallax/package-lock.json
 /parallax/.editorconfig
+
+/blog/node_modules/
+/blog/package-lock.json
+/blog/.editorconfig
