@@ -17,3 +17,7 @@
 /blog/node_modules/
 /blog/package-lock.json
 /blog/.editorconfig
+
+/food-blog/node_modules/
+/food-blog/package-lock.json
+/food-blog/.editorconfig
